@@ -72,6 +72,6 @@ This project is licensed under the MIT License.
 
 👨‍💻 Author
 
-github.com/VEDANSH-13
+VEDANSH DHEER
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/VEDANSH-13
